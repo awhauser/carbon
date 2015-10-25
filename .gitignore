@@ -1,0 +1,7 @@
+*.bbl
+*.fls
+*.log
+*.aux
+*.blg
+carbon.fdb_latexmk
+carbon.synctex.gz
